@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente trabalhando com desenvolvimento back-end em java.
-- 🌱 Estudo continuo em Java / Spring / MVC.
+- 🌱 Estudo continuo em Python e Ciencia de Dados.
 
 ##
 
@@ -17,11 +17,8 @@
   
 <div align="display: inline_block">
   <br>
-    <img align="center" alt="Henrique-Java" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="Henrique-Spring" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-    <img align="center" alt="Henrique-html" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-    <img align="center" alt="Henrique-css" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-    <img align="center" alt="Henrique-bs" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+    <img align="center" alt="Henrique-Python" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" alt="Henrique-Anaconda" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
 </div>
  
 ##
