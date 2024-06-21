@@ -18,7 +18,9 @@
 <div align="display: inline_block">
   <br>
     <img align="center" alt="Henrique-Python" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img align="center" alt="Henrique-Anaconda" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg">
+    <img align="center" alt="Henrique-Java" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="Henrique-Spring" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+  
 </div>
  
 ##
