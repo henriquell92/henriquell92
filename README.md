@@ -1,10 +1,6 @@
 ### Olá Mundo, Seja Bem-vindo!
 ##
 
-
-- 🔭 Atualmente trabalhando com desenvolvimento back-end em java.
-- 🌱 Estudo continuo em Python e Ciencia de Dados.
-
 ##
 
 <div>
