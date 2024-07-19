@@ -1,8 +1,6 @@
 ### Olá Mundo, Seja Bem-vindo!
 ##
 
-##
-
 <div>
   <a href="https://github.com/henriquell92">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquell92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
